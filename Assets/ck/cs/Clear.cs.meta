@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1b3169d76601daa4aa2f93083239b2c8
+timeCreated: 1480216162
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clearpop: {fileID: 1000013909924010, guid: b14fc23a8744f1a4f883c77a96667ebc, type: 2}
+  - ca: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - b: {instanceID: 0}
+  - a: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
